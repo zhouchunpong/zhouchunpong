@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitor Count](https : //profile-counter.glitch.me/zhouchunpong/count.svg)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhouchunpong&left_color=green&right_color=red)
 
 
 
