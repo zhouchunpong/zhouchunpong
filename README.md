@@ -1,6 +1,6 @@
 ## Hi there 👋
 ```
-![Visitor Count](https : //profile-counter.glitch.me/{zhouchunpong}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/zhouchunpong/count.svg)
 ```
 
 
