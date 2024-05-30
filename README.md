@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhouchunpong&left_color=green&right_color=red)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouchunpong&show_icons=true&hide=prs,issues&count_private=true?theme=ambient_gradient)
 
 
 
