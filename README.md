@@ -1,7 +1,7 @@
 ## Hi there 👋
 My ![Visitor Count](https://profile-counter.glitch.me/zhouchunpong/count.svg) visitor
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouchunpong&show_icons=true&hide=prs,issues&count_private=true&theme=ambient_gradient&hide_rank=true&include_all_commits=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouchunpong&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=ambient_gradient&hide_rank=true&include_all_commits=true)
 
 
 
